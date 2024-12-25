@@ -6,3 +6,5 @@ matplotlib
 seaborn
 flask
 streamlit
+nltk
+tensorflow
