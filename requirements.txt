@@ -8,3 +8,4 @@ flask
 streamlit
 nltk
 tensorflow
+rank_bm25
